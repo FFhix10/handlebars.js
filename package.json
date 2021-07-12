@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@knappi/grunt-saucelabs": "^9.0.2",
-    "aws-sdk": "^2.1.49",
+    "aws-sdk": "^2.932.0",
     "babel-loader": "^5.0.0",
     "babel-runtime": "^5.1.10",
     "benchmark": "~1.0",
